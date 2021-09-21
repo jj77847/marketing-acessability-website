@@ -1,3 +1,5 @@
+## Marketing Accessability Website
+
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -10,4 +12,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-all criteria are met <img width="1440" alt="Screenshot 2021-09-15 at 22 34 31" src="https://user-images.githubusercontent.com/81172135/133513095-00758932-b2c1-43bf-af9b-6d013633699d.png">
+all criteria are met
+\
+
+# Image of webpage
+
+<img width="1440" alt="Screenshot 2021-09-15 at 22 34 31" src="https://user-images.githubusercontent.com/81172135/133513095-00758932-b2c1-43bf-af9b-6d013633699d.png">
