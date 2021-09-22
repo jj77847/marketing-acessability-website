@@ -1,8 +1,10 @@
 ## Marketing Accessability Website
 
+Tasked with refactoring a marketing website focusing on accessability and readability in the html and css.
+
 # Link to webpage
 
-link: (https://jj77847.github.io/marketing-acessability-website/)
+[link:] (https://jj77847.github.io/marketing-acessability-website/)
 
 # Image of webpage
 
